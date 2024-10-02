@@ -5,15 +5,14 @@ export const perguntas = [
             {
                 texto: "SOVA um personagem muito legal que tem acessoa tecnologia avançada",
                 afirmacao: [
-                    "CORRETO ELE E O SOVA O PERSONAGEM QUE TEM UMA TECNOLOGIA DE SPOTS."
+                    "SIM ERA O SOVA."
                 ],
                 proxima: 1,
             },
             {
                 texto: "Não lembro o nome do personagem :(!",
                 afirmacao: [
-                    "Queria melhorar com o personagem.",
-                    "Ele considerou um personagem legal e por isso quis continuar jogando com ele."
+                    "COMO VOCE N SE LEMBRA DO MANO CAOLHO."
                 ],
                 proxima: 2,
             },
@@ -25,18 +24,14 @@ export const perguntas = [
             {
                 texto: "haven.",
                 afirmacao: [
-                    "Utilizava muito bem as habilidades do personagem.",
-                    "Sempre marcando alguem do time inimigo.",
-                    "Sabia muito bem os pixels mais famosas e os melhores pixels para ajudar o time."
+                    "HAVEN EXCELENTE MAPA."
                 ],
                 proxima: 3,
             },
             {
                 texto: "ASCENT.",
                 afirmacao: [
-                    "Mesmo ajudando meu time com as habilidades, mal conseguia abates ou kills.",
-                    "Comecei a montar uma rotina de treino de mira para melhora-la.",
-                    "E comecei a ver videos de como abater mais inimigos em partidas no jogo Valorant."
+                    "ASCENTE tenho medo de você."
                 ],
                 proxima: 4,
             },
@@ -48,17 +43,14 @@ export const perguntas = [
             {
                 texto: "Vandal.",
                 afirmacao: [
-                    "Conseguiu abates de forma mais tranquila.",
-                    "Não morria com tanta facilidade.",
-                    "Meu KDA deu uma boa melhorada."
+                    "Vandal um tiro HS mata OTIMO."
                 ],
                 proxima: 3,
             },
             {
                 texto: "Phantom.",
                 afirmacao: [
-                    "Sentiu mais felicidade em jogar.",
-                    "Achou que era muito mais fácil jogar o jogo."
+                    "Phantom."
                 ],
                 proxima: 4,
             },
@@ -70,16 +62,14 @@ export const perguntas = [
             {
                 texto: "Loud.",
                 afirmacao: [
-                    "Dificuldade em evoluir a patente oponentes que conhecem mais o jogo.",
-                    "Querendo evoluir mais ainda."
+                    "LOUD Apenas verdades."
                 ],
                 proxima: 5,
             },
             {
                 texto: "SENTINELS.",
                 afirmacao: [
-                    "O SOVA ja não era o seu personagem favorito e não estava agradando tanto seu estilo de jogo.",
-                    "SE tornou um jogador flex. Joga com todos os personagens do jogo ou o mais adequado para o mapa que vai jogar."
+                    "Sentinels HUMM QUE NOCHO."
                 ],
                 proxima: 6,
             },
@@ -91,16 +81,14 @@ export const perguntas = [
             {
                 texto: "Ghost.",
                 afirmacao: [
-                    "Ele considera o personagem muito bom.",
-                    "Esta gostando de jogar com a nova clase de personagem Controlador."
+                    "Ghost apoio e algo bom."
                 ],
                 proxima: 5,
             },
             {
                 texto: "Sherif.",
                 afirmacao: [
-                    "Percebeu que sua vida e muito importante por isso não estava tentando trocar tiro com os inimigos.",
-                    "Sempre fazendo excelentes smokes para o seu time."
+                    "SHERIFF AGRESSIVO."
                 ],
                 proxima: 6,
             },
@@ -112,16 +100,15 @@ export const perguntas = [
             {
                 texto: "TCKUUUUUU.",
                 afirmacao: [
-                    "Esta jogando muito bem.",
-                    "Alcançou a maior patente do jogo."
+                    "TCUKU OTIMO STREAMER."
                 ],
                 proxima: 7,
             },
             {
                 texto: "OTSUKA O GORDAO DO ESMAGA.",
                 afirmacao: [
-                    "Demorou em torno de 1 ano e meio de dedicação.",
-                    "Satisfação em alcançar tao conquista."
+
+                    "Otsuka o gordão do SSSSMAGA."
                 ],
                 proxima: 7,
             },
@@ -133,16 +120,14 @@ export const perguntas = [
             {
                 texto: "JETT.",
                 afirmacao: [
-                    "Lucrar com oque gosta de fazer.",
-                    "isso faz bem a ele, então imagina se ele consegui ganhar dinheiro com isso, vai ser 2x felicidade."
+                    "JETT DELICINHA DE PERSONAGEM."
                 ],
                 proxima: 7,
             },
             {
                 texto: "NEON.",
                 afirmacao: [
-                    "Indeciso entre jogar de forma profissional.",
-                    "Indeciso em fazer as pessoas rirem com sua jogabilidade."
+                    "NEON???? APENAS SUMA."
                 ],
                 proxima: 7,
             },
@@ -154,16 +139,13 @@ export const perguntas = [
             {
                 texto: "SAADHACK.",
                 afirmacao: [
-                    "fazer outras pessoas rirem e se divertirem com suas lives.",
-                    "Especialidade em fazer pessoas rirem."
+                    "SAADHACK Ja foi muito bom."
                 ],
             },
             {
                 texto: "SACY.",
                 afirmacao: [
-                    "Esperança em lucrar com o jogo",
-                    "Compartilhando sua gameplay para fazer outras pessoas felizes.",
-                    "Fazer outras pessoas felizes e uma especialidade."
+                    "SACY Mesma coisa que o SAADHACK, ja teve seu tempo."
                 ],
             },
         ]
