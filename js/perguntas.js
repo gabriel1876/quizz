@@ -108,7 +108,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "E agora conseguiu alcançar uma patente maior",
+        enunciado: "E agora conseguiu alcançar uma patente maior?",
         alternativas: [
             {
                 texto: "Sim alcancei a patente do Radiante.",
@@ -119,52 +119,52 @@ export const perguntas = [
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Demorei muito tempo mas estou satisfeito.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Demorou em torno de 1 ano e meio de dedicação.",
+                    "Satisfação em alcançar tao conquista."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "E agora que alcançou a sua maior meta, oq vai fazer?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Planejo ganhar dinheiro com isso pois e algo que me faz bem.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Lucrar com oque gosta de fazer.",
+                    "isso faz bem a ele, então imagina se ele consegui ganhar dinheiro com isso, vai ser 2x felicidade."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Mas não sei por onde começar lives ou campeonatos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Indeciso entre jogar de forma profissional.",
+                    "Indeciso em fazer as pessoas rirem com sua jogabilidade."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Ao final da discussão, você escolheu oque para seguir como carreira?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Fazer lives para as outras pessoas se entreterem a final, fazer outras pessoas rirem e minha especialidade.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "fazer outras pessoas rirem e se divertirem com suas lives.",
+                    "Especialidade em fazer pessoas rirem."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Espero que de certo afinal jogar e algo que eu amo e se eu conseguir fazer outras pessoas rirem com e se divertirem com isso eu vou ficar muito feliz.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Esperança em lucrar com o jogo",
+                    "Compartilhando sua gameplay para fazer outras pessoas felizes.",
+                    "Fazer outras pessoas felizes e uma especialidade."
                 ],
             },
         ]
